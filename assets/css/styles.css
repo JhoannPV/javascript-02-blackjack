@@ -18,6 +18,11 @@ body {
     color: white;
 }
 
+.btn-start:hover {
+    background-color: rgb(0, 128, 0);
+    color: white;
+}
+
 .f-weight {
     font-weight: bold;
 }
